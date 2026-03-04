@@ -1,7 +1,7 @@
 # Dashboard Clustering Kecamatan (SMP Negeri vs Swasta)
 
-Aplikasi Streamlit untuk melakukan Hierarchical Clustering (Ward) pada data rata-rata jumlah murid SMP negeri dan swasta per kecamatan.
+Aplikasi Streamlit untuk Hierarchical Clustering (Ward) berdasarkan rata-rata jumlah murid SMP negeri dan swasta.
 
-## Cara jalanin lokal
+## Jalankan lokal
 pip install -r requirements.txt
 streamlit run app.py
